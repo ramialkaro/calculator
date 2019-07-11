@@ -12,4 +12,5 @@ About:
 Tools:
   
     HTML5, CSS3, JavaScript (reactJs framework).
+    Bootstrap to get style UI.
     

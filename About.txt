@@ -1,0 +1,14 @@
+Calculator
+  version: 1.0
+   author: Rami Alkaro
+   date: 11-7-2019
+
+About:  
+      Simple calculator application created with 
+      
+      functionalty of it, two input field (with option the you can role to get values)
+      and one button to show you results below the calculation
+
+Tools:
+  
+    HTML5, CSS3, JavaScript (reactJs framework).
